@@ -1,6 +1,6 @@
 # API RestFull
 
-## running locally
+## Running Locally
 
 - Após clonar ou baixar do repositorio abrir a pasta onde tá o projeto e no terminal digitar o comando `` yarn`` para baixar as dependências.
 
