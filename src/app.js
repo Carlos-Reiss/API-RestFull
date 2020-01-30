@@ -8,7 +8,7 @@ class App{
         this.routes();
     }
     routes(){
-        
+        this.server.use(express.json());
         this.server.use(routes);
     }
 }
